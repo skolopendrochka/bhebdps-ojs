@@ -65,4 +65,4 @@ describe("About Prototypal Inheritance (about_prototypal_inheritance.js)", funct
     // what is Lenny's wingspan?
     expect(FILL_ME_IN).toBe(lenny.wingspan);
   });
-});
+}); 
